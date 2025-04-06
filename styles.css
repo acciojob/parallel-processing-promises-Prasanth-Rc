@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+    #loading {
+      display: none;
+      font-weight: bold;
+      color: blue;
+    }
+    #error {
+      color: red;
+      font-weight: bold;
+    }
+    img {
+      margin: 10px;
+      border: 2px solid #ccc;
+    }
